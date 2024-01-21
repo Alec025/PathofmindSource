@@ -1,0 +1,4 @@
+mainPlay::Jugar
+mainSettings::Settings
+mainCredits::Credits
+mainExit::Exit
